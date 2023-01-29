@@ -70,7 +70,8 @@ Publish the website in the given URL.
 ### Home Page:
 
 ![output]
-![Screenshot (36)](https://user-images.githubusercontent.com/119405916/215346815-2075a716-4ea5-4259-bfe8-56b4b02f7ed3.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/119405916/215347339-0484cf06-f843-49c8-9e84-2b3726f4cf20.png)
+
 
 
 ## Result:
